@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="adahK3iKy0CefEiNxEQ_qw" DesignTimeRectangle="9, 118, 400, 96" ElementType="Text" FriendlyName="'1,112'" FullSelectorArgument="&lt;uia cls='LandmarkTarget' /&gt;&lt;uia automationid='CalculatorResults' name='Display is 1,112' role='text' /&gt;" FuzzySelectorArgument="&lt;uia cls='LandmarkTarget' /&gt;&lt;uia automationid='CalculatorResults' name='Display is 1,112' role='text' /&gt;" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='Microsoft.WindowsCalculator_8wekyb3d8bbwe!App' title='Calculator' /&gt;" SearchSteps="Selector, FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="69, 47, 102, 34" ElementType="Text" FriendlyName="'Standard'" FullSelectorArgument="&lt;uia automationid='Header' cls='TextBlock' name='Standard Calculator mode' /&gt;" FuzzySelectorArgument="&lt;uia automationid='Header' cls='TextBlock' name='Standard Calculator mode' role='text' check:fulltext='Standard' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1QAkTcWmSlkyR3AQ5o5_9_A</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0CH1wKQ2OiEagyPqZ0nfLXg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="8356ea233ce1525dcdfa4b0174f2ef5b.png" xmlns="">0qawKxyz9A0OCWDT7DoQZ6g</imageRef>
+</TargetAnchorable>

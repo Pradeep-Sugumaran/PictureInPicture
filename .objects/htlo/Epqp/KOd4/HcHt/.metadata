@@ -1,0 +1,13 @@
+﻿{
+  "Id": "HcHt_IEeN0yW7goVy4dIsg",
+  "Reference": "L9_YndB14E-Pwd-swNzsOA/HcHt_IEeN0yW7goVy4dIsg",
+  "ParentRef": "L9_YndB14E-Pwd-swNzsOA/KOd4mqm9uE6woKPmmliwaA",
+  "Name": "Divide",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-09-23T05:01:06.6020048Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-09-23T05:01:06.6020048Z"
+}

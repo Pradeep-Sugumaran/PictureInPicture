@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="B7FNe1zKjEmL05ygCC8K5g" DesignTimeRectangle="308, 324, 95, 65" ElementType="Button" FriendlyName="''" FullSelectorArgument="&lt;uia cls='LandmarkTarget' /&gt;&lt;uia automationid='StandardOperators' cls='NamedContainerAutomationPeer' name='Standard operators' /&gt;&lt;uia automationid='divideButton' cls='Button' name='Divide by' /&gt;" FuzzySelectorArgument="&lt;uia cls='LandmarkTarget' /&gt;&lt;uia automationid='StandardOperators' cls='NamedContainerAutomationPeer' name='Standard operators' /&gt;&lt;uia automationid='divideButton' cls='Button' name='Divide by' role='button' check:fulltext='' /&gt;" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='Microsoft.WindowsCalculator_8wekyb3d8bbwe!App' title='Calculator' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="210, 324, 95, 65" ElementType="Button" FriendlyName="''" FullSelectorArgument="&lt;uia cls='LandmarkTarget' /&gt;&lt;uia automationid='StandardFunctions' cls='NamedContainerAutomationPeer' name='Standard functions' /&gt;&lt;uia automationid='squareRootButton' cls='Button' name='Square root' /&gt;" FuzzySelectorArgument="&lt;uia cls='LandmarkTarget' /&gt;&lt;uia automationid='StandardFunctions' cls='NamedContainerAutomationPeer' name='Standard functions' /&gt;&lt;uia automationid='squareRootButton' cls='Button' name='Square root' role='button' check:fulltext='' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1pHQ6-M_FS06jDjv_y8Fuqg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0K8DGwvjwCUuJkCexWoIYGA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="7f71e1e33671926ca3e0593cbc4536a3.png" xmlns="">0HplnaqHCB0aIK7CviV36Dw</imageRef>
+</TargetAnchorable>
